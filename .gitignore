@@ -1,0 +1,9 @@
+# Visual Studio Code / C++ / Qt
+.vscode/*
+!.vscode/launch.json
+
+# CMake
+build
+
+# Jetson Inference
+generated
